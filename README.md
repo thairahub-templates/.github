@@ -1,2 +1,2 @@
 # .github
-Thairahub Templates
+Bring your Product to THe AI eRA
